@@ -10,6 +10,16 @@ Game kind: goal win condition, stacking and capturing; abstract game
 
 *This is a working project  : tests have not yet started !*
 
+---
+
+Dans le jeu "**staku**", deux joueurs, Blanc et Noir, déplacent leurs jetons, les empilent et les dépilent afin d'atteindre l'un des deux "palais" adverses. Les joueurs devront tirer parti des jetons neutres, gérer les captures et les effets "trampoline" sur des piles de 2 ou 3 jetons !
+
+Nombre de joueurs : 2 / Age minimum : 8 ans / Durée de la partie : 15 à 30 minutes
+
+Type de jeu : condition de victoire par objectif, empilement et capture ; jeu abstrait
+
+*Ceci est un projet en cours : les tests n'ont pas encore commencé !*
+
 
 ## Copyright
 
