@@ -2,9 +2,11 @@
 
 ## Notations
 
+En recyclant le nombre de traits des opérateurs arithmétiques (avec l'approximation que l'astérisque est composable en 3 traits):
+
 - Déplacement d'un jeton : a1-a2
 
-- Déplacement d'une pile de 2 jetons : a1=a2
+- Déplacement d'une pile de 2 jetons : a1+a2
 
 - Déplacement d'une pile de 3 jetons : a1*a2
 
